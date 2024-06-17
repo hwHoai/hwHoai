@@ -47,9 +47,11 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwHoai&hide_border=true&layout=compact" align="left" />  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwHoai&hide_border=true&layout=compact" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=hwHoai&show_icons=true&count_private=true&hide_border=true" align="left" />  
+</div>
 
 <br/>  
 
