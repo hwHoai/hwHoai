@@ -8,10 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/đào-hữu-hoài-5096592b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="đào-hữu-hoài-5096592b6" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hwhoài" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hwhoài" height="30" width="40" /></a>
-<a href="https://fb.com/hữu hoài" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hữu hoài" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23160927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23160927" height="30" width="40" /></a>
+<a href="https://fb.com/huuhoai260505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huuhoai260505" height="30" width="40" /></a>
 <a href="https://instagram.com/d.hwhoai005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.hwhoai005" height="30" width="40" /></a>
-<a href="https://discord.gg/huuhoai2655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="huuhoai2655" height="30" width="40" /></a>
+<a href="https://discord.gg/tqD3Zf2H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tqD3Zf2H" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
