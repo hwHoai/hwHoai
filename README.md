@@ -4,12 +4,10 @@
 #### *<div align="center">A passionate fullstack developer from Viet Nam</div>*  
   
 
-📫 How to reach me: [my email](daohuuhoai2655@gmail.com)✉️  
+![Profile views counter](https://komarev.com/ghpvc/?username=hwHoai&&style=flat-square)  
   
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=hwHoai&&style=flat-square)  
+📫 How to reach me: [my email](daohuuhoai2655@gmail.com)✉️  
   
 
 <br/>  
@@ -47,7 +45,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwHoai&hide_border=true&layout=compact" align="left" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwHoai&hide_border=true&layout=compact" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hwHoai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
