@@ -15,25 +15,7 @@
 <br/>  
 
 
-## Connect with me  
-<a href="https://linkedin.com/in/đào-hữu-hoài-5096592b6" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/huuhoai260505" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/hwHoai" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/d.hwhoai005" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
-## My Skills 
+## My Skills
 
 
 ### Frontend  
@@ -67,7 +49,25 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwHoai&hide_border=true&layout=compact" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=hwHoai&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=hwHoai&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
+
+
+## Connect with me  
+<a href="https://linkedin.com/in/đào-hữu-hoài-5096592b6" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/huuhoai260505" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/hwHoai" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/d.hwhoai005" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
 <br />
 
 ----
