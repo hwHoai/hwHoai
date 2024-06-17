@@ -47,13 +47,17 @@
 
 
 ### Database  
-<div align="left">
+  <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
-  <img width="6" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  <img width="6" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
 </div>
+
+###
+
+###
 
 <br/>  
 
