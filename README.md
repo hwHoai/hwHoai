@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skills
+## My Skill Set  
 
 
 ### Frontend  
@@ -47,9 +47,15 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwHoai&hide_border=true&layout=compact" align="left" />  
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hwHoai&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwHoai&hide_border=true&layout=compact" align="left" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hwHoai&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td></tr></table>  
 
 <br/>  
 
