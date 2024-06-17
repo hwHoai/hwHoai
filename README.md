@@ -16,14 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hwhoai&show_icons=true&locale=en" alt="hwhoai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hwhoai&" alt="hwhoai" /></p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hwHoai&limit=5&theme=swift&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=hwHoai&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
