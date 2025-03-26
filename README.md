@@ -11,9 +11,13 @@
   
 
 <br/>  
+
 ## About me
+
 Hi, I am Hoai, a child from Quy Nhon City, Binh Dinh, Viet Nam. I love the way computers and technology are created to support everything in modern human life. So, it motivates me to learn and discover the interesting hello bit world. I am now a second-year graduate and work for vice lead position of the club Google Developer Group on Campus IU. Over the time I studied in university and worked for GDGoCIU, I have been able to create and develop a website for both Front-end and Back-end. Now, I am confident and excited to get my first internship job. If you are interested about me, let’s connect on LinkedIn for any possible cooperation in the future.
+
 <br/>
+
 ## My Skill Set  
 
 
