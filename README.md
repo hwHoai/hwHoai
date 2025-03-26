@@ -44,6 +44,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25" alt="Spring logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="25" alt="Maven logo"  />
 </div>
 
 
